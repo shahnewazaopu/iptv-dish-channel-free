@@ -1,33 +1,22 @@
 {
   "name": "iptv",
-  "version": "0.4.0",
-  "description": "Collection of 6000+ free IPTV channels from all over the world",
-  "keywords": [
-    "iptv",
-    "playlist",
-    "tv",
-    "channels"
-  ],
-  "main": "index.m3u",
   "scripts": {
-    "test": "node test/index.js",
-    "generate": "node helpers/generate.js",
-    "format": "node helpers/formatter.js"
+    "test": "node scripts/test.js",
+    "format": "node scripts/format.js",
+    "generate": "node scripts/generate.js",
+    "update-readme": "node scripts/update-readme.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/freearhey/iptv.git"
-  },
-  "author": "Arhey <free.arhey@gmail.com>",
+  "author": "Arhey",
   "private": true,
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/freearhey/iptv/issues"
-  },
-  "homepage": "https://github.com/freearhey/iptv#readme",
+  "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "axios": "^0.18.0",
-    "playlist-parser": "0.0.12"
+    "axios": ">=0.18.1",
+    "epg-parser": "^0.1.1",
+    "escape-string-regexp": "^2.0.0",
+    "iptv-checker-module": "^1.4.0",
+    "iptv-playlist-parser": "^0.4.2",
+    "iso-639-3": "^2.0.0",
+    "markdown-include": "^0.4.3"
   }
 }

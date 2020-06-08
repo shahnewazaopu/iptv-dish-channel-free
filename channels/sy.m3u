@@ -1,35 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jisrtv.com/wp-content/themes/JisrTV/jisr/assets/logo.png" group-title="Syria(سوريا)",Al Jesir
-http://62.210.141.179:8000/ibrahim/123456/219
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/arab_news_network.jpg" group-title="SYRIA",ANN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://alyaumtv.net/wp-content/uploads/2019/04/alyaom-1-1_small2.png" group-title="News",Al Yaum
+http://172.105.89.215:5080/LiveApp/streams/270434322502251479308014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="",alltv
+http://185.96.70.242:1935/live/alltv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/gXqzvLa.jpg" group-title="News",ANN
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/2606914_logo_cira_tv_kurd.png" group-title="Syria(سوريا)",Cira TV
-http://213.162.202.9:8000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DRAMA TV [270p]
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2018/08/%D9%84%D9%88%D8%BA%D9%88-%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9-3.png" group-title="Syria(سوريا)",Halab Today
-http://62.210.141.179:8000/ibrahim/123456/218
-#EXTINF:-1 tvg-id="New EPG" tvg-name="HALAB TODAY" tvg-logo="http://lambaproduction.com/dev15/wp-content/uploads/2015/06/11412306_1174684615882308_6093562438069862148_n.png" group-title="SYRIA",HALAB TODAY
-http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i5.satexpat.com/cha/sy/lana-95x95.gif" group-title="Syria(سوريا)",Lana TV
-http://213.162.202.9:8000/play/a02d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/bf/Noor_Al-Sham_Logo.png" group-title="RELIGION",Nour El Sham* (Syria)
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_nour
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.orient-news.net/tamplate/2018/shared/images/Orient-NET1.png" group-title="Syria(سوريا)",Orient
-http://62.210.141.179:8000/ibrahim/123456/401
-#EXTINF:-1 tvg-id="New EPG" tvg-name="ORIENT NEWS" tvg-logo="http://caravaneculturellesyrienne.org/wp-content/uploads/2014/12/new-logo.png" group-title="SYRIA",ORIENT NEWS
-https://svs.itworkscdn.net/orienttvlive/orienttv.smil/gmswf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ortas.gov.sy/rtv_icons/souryana_logo.png" group-title="Syria(سوريا)",Radio Souryana
-http://82.137.248.16:1935/Souryana/stream20112018/chunklist_w821508526.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ronahi.tv/wp-content/uploads/2018/06/logo.png" group-title="Syria(سوريا)",Ronahi TV
-http://213.162.202.9:8000/play/a01g/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Syria Drama
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_drama
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Syria News
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ortas.gov.sy/rtv_icons/sedu_logo.png" group-title="Syria(سوريا)",Syrian Education
-http://82.137.248.16:1935/SEdu/stream20112018/chunklist_w1551912453.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i5.satexpat.com/cha/sy/syrianTV-95x30.gif" group-title="Syria(سوريا)",Syrian TV
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist_b1625000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Ugarit TV
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_ugarit
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="",Halab Today TV
+http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="",Halab Today TV
+https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9HCiWqv.jpg" group-title="",Lana plus
+https://svs.itworkscdn.net/alminbartvlive/alminbar/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RExOqfh.png" group-title="",Lana TV HD
+https://svs.itworkscdn.net/lanatvlive/lana/chunks.m3u8?DVR&v
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Dy2Eo33.png" group-title="Religious",Noor Al-Sham
+http://82.137.248.16:1935/Nour/stream31122019/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="",Sama TV
+http://95.217.133.45:8080/hls/samatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eR8QSEt.png" group-title="",Souryana Radio
+http://82.137.248.16:1935/Souryana/stream31122019/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="Kids",Spacetoon
+https://shls-spacetoon-next.shahid.net/spacetoon-nextologies.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="Kids",Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PrNVVOu.png" group-title="",Suboro TV
+https://streaming.viewmedia.tv/viewsatstream12/viewsatstream12.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Syria Drama ARB" tvg-name="Syria Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="Movies",Syria Drama
+http://82.137.248.16:1935/Drama/stream31122019/playlist.m3u8
+#EXTINF:-1 tvg-id="Syria Satellite Channel ARB" tvg-name="Syria Satellite Channel ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="",Syria Satellite Channel
+http://82.137.248.16:1935/Sat/stream31122019/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="",Syria TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PrXBgQG.png" group-title="Education",Syrian Education TV
+http://82.137.248.16:1935/SEdu/stream31122019/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="News",Syrian News Channel
+http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/4x2uwpx.png" group-title="",Ugarit TV [not 24/7]
+http://82.137.248.16:1935/Ugarit/stream31122019/playlist.m3u8
