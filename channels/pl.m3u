@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FilmBox.pl" tvg-name="FilmBox" tvg-logo="https://static.iptv-epg.com/tr/Filmbox.pl.png" group-title="Movies",FilmBox
-http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/1071/index.m3u8
-#EXTINF:-1 tvg-id="Hope Poland" tvg-name="" tvg-logo="Hope.png" group-title="Poland-WebTV",Hope Channel Polska HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="https://i.imgur.com/c59VWgF.jpg" group-title="Music",4FUN TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="https://i.imgur.com/OeEAXXS.jpg" group-title="",Hope Channel Poland
 http://rtmp.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",KRAKÓW Grodzka 2
-http://hls1.webcamera.pl/krakowsan_cam_480f1a/krakowsan_cam_480f1a.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",KRAKÓW. plaza Live
-http://hls1.webcamera.pl/dziwnowum_cam_a4181f/dziwnowum_cam_a4181f.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Poland-WebTV",NRJ Hits TV
-http://5.196.138.6:1935/live/nrjbelgique/chunklist_w475134729.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Poland-WebTV",TV KUJAWY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="https://i.imgur.com/tgLWe9o.jpg" group-title="",Telewizja Kujawy
 http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TV TORUN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="https://i.imgur.com/GkfXKz5.jpg" group-title="",Telewizja Pogranicze
+http://95.160.28.218:1935/pogranicze/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Republika PL" tvg-name="TV Republika PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/ImFmWk5.png" group-title="",Telewizja Republika
+https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="https://i.imgur.com/GdbkqCM.png" group-title="",Telewizja Toruń
 http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
-#EXTINF:-1 tvg-id="TV Trwam" tvg-name="" tvg-logo="TV_Trwam.png" group-title="Poland-WebTV",TV Trwam
-http://trwamtv.live.e55-po.insyscd.net/trwamtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TVT ZGORZELEC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="https://i.imgur.com/GdbkqCM.png" group-title="",Telewizja Toruń
+http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="https://i.imgur.com/hjODZvI.jpg" group-title="",TVT Zgorzelec
 http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:-1 tvg-id="WTK PL" tvg-name="WTK PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/QjuWBxr.jpg" group-title="",WTK
+http://188.47.232.6/jupiter/o1-cl4/live/wtk-a-wtktv/live.m3u8
